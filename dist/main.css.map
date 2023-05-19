@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","sources":["src/main.css"],"sourcesContent":[".test {\n  clip-path: url(\"#test_refsajifejaiojifej\")\n}\n"],"names":[],"mappings":"AAAA,CAAC,IAAI,CAAC,CAAC;EACL,SAAS,EAAE,GAAG,CAAC,0BAA0B;AAC3C"}
